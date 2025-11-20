@@ -1,4 +1,6 @@
 # SINGLE_STAGE_AMPLIFIER-
+## REG NUM :
+## NAME :
 ## EXPERIMENT 4: Design a CMOS Single Stage Amplifier and findout the DC and OP analysis.
 
 ## Aim:
